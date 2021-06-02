@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arianramianpour
+- 👋 Hi, I’m arianramianpour
 - 👀 I’m interested in creating robots
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me arian@hightechrobo.com
