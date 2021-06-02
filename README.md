@@ -1,7 +1,9 @@
 - 👋 Hi, I’m arianramianpour
 - 👀 I’m interested in creating robots
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me arian@hightechrobo.com
+
+who am i ?
+A cool person who loves South Korea and want to emigrate there
 
 <!---
 arianramianpour/arianramianpour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
