@@ -15,7 +15,8 @@
 
 - ⚡ Fun fact **I like you**
 
-<h3 align="left">Connect with me: arian@hightechrobo.com </h3>
+<h3 align="left">Connect with me:</h3>
+<h5>arian@hightechrobo.com </h5>
 <p align="left">
 <a href="https://twitter.com/arianramianpour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arianramianpour" height="30" width="40" /></a>
 <a href="https://instagram.com/arian.ramianpour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arian.ramianpour" height="30" width="40" /></a>
