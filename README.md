@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Hightechrobo**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Microcontrollers**
 
-- 📝 I regularly write articles on [https://hightechrobo.com/blog](https://hightechrobo.com/blog)
+- 📝 I regularly write articles on [https://blog.hightechrobo.ir](https://blog.hightechrobo.ir)
 
 - 📫 How to reach me **arian@hightechrobo.com**
 
