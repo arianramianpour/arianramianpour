@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **arian@hightechrobo.com**
 
-- ⚡ Fun fact **I like you**
+- ❤️🤍 Love Me Hate Me
 
 <h3 align="left">Connect with me:</h3>
 <h5>arian@hightechrobo.com </h5>
